@@ -1,1 +1,2 @@
-# AB-Testing-Visualization
+Interact with the dashboard on this link: https://public.tableau.com/app/profile/srushti8207/viz/ABTesting_16733385478010/Dashboard1
+The dashboard is based on my A/B Testing project mentioned in my github profile. The visualization is divided into interactive and non-interactive users in control and treatment(exposed) group. We can visualize the 3 different types of data available about the users; Browser, OS platform and Phone Type. This gives us some exploratory insights into what caused the failure to not be able to reject the null hypothesis. Thus, I can say that the dashboard supports my conclusion to the A/B Testing Analysis.
